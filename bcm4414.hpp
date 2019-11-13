@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2019 Branilson Luiz
+ * Copyright (c) 2019 João Venancio Abreu Filho
  * BCM4414.cpp - Class file for the BCM4414xG0F4440yzz Bus Converter.
  * Version: 1.0.0
  * 
